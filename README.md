@@ -12,7 +12,7 @@
  
  <p align=justify > 💞️ Je souhaiterais collaborer à la programmation d'applications avec python.
  
- <p align=justify > 📫 Vous pouvez me contacter via mon adresse e-mail alexanderkyas@gmail.com
+ <p align=justify > 📫 Vous pouvez me contacter via mon adresse mail alexanderkyas@gmail.com
 
 <!---
 alexpo1921/alexpo1921 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
