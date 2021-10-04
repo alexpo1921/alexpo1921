@@ -6,7 +6,7 @@
  
  
  
- <p align=justify > 👀 Je suis intéressé par la philosophie du langage, la transformation digitale et le langage de programmation.
+ <p align=justify > 👀 Je suis intéressé par la philosophie du langage, la transformation digitale et les langages de programmation.
  
  <p align=justify > 🌱 Je suis actuellement en train d'apprendre python.
  
