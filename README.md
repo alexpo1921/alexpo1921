@@ -8,7 +8,7 @@
  
  <p align=justify > 👀 Je suis intéressé par la philosophie du langage, la transformation digitale et le langage de programmation.
  
- <p align=justify > 🌱 Je suis actuellement en train d'apprendre.
+ <p align=justify > 🌱 Je suis actuellement en train d'apprendre python.
  
  <p align=justify > 💞️ Je souhaiterais collaborer à la programmation d'applications avec python.
  
