@@ -1,5 +1,5 @@
  <h1 align="center">Qui suis-je ?</h1>
- <img align="right" src="https://images.pexels.com/photos/246121/pexels-photo-246121.jpeg?cs=srgb&dl=pexels-markus-spiske-246121.jpg&fm=jpg" width="210" height="310"  / >
+ <img align="right" src="https://images.pexels.com/photos/246121/pexels-photo-246121.jpeg?cs=srgb&dl=pexels-markus-spiske-246121.jpg&fm=jpg" width="210" height="310" vertical-align: middle  / >
  
  
  <p align=justify >  👋 Salut, je m'appelle Alexander, j'ai fait des études en philosophie, actuellement je m'intéresse à la philosophie du langage.   Cet intérêt m'a amené à découvrir l'énorme potentiel des langages de programmation et à prendre conscience du processus de digitalisation croissante vers lequel nous nous dirigeons. </p>
